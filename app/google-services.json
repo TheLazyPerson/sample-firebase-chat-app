@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "501532809036",
+    "firebase_url": "https://fir-chattrial.firebaseio.com",
+    "project_id": "fir-chattrial",
+    "storage_bucket": "fir-chattrial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501532809036:android:0d8fa2721e14a9fa",
+        "android_client_info": {
+          "package_name": "com.omkomawar.firebasechattrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501532809036-t64buntlbjv6qnld253c6bqn4e8ngjgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omkomawar.firebasechattrial",
+            "certificate_hash": "a8dd21d8fc86ce99a3479efc45f1b0352ea3c661"
+          }
+        },
+        {
+          "client_id": "501532809036-f2iuu9hqnujjffdj7mj6rqlq56mhqdt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1kQuoUDI66LqwIYLYWPML4NETUVySL3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501532809036-f2iuu9hqnujjffdj7mj6rqlq56mhqdt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
